@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="movie_name_text_hint">Movie Name (Gerekli)</string>
+    <string name="movie_year_text_hint">Movie Name (İsteğe Bağlı)</string>
+
+    <!-- Button Texts -->
+    <string name="search_button_text">Movie Search</string>
+
+    <!-- Constants -->
+    <string name="api_url">https://www.omdbapi.com/?plot=full&amp;apikey=2ac61cbd&amp;t=</string>
+</resources>
